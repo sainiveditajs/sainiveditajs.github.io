@@ -1,97 +1,101 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Health Administration
+      institution: Cornell University
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Sloan Student Ambassador, 2022-24
+        - Women in Entrepreneurship Fellow, 2022
+        - title: Relevant Courses
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Designing Data Products, Data Analytics in Healthcare, Strategy, Population Health
+    - title: Bachelor of Dental Surgery
+      institution: Manipal University, India
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - President of the Student Council; Established a patient feedback loop to improve diagnostic & treatment processes
+        - Published research:“Prophylactic extraction of third molars:Is it necessary?” & “Significance of BRAF in head and neck tumors”
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Product Management Summer Intern
+      institution: Zinnia Health
+      year: May 23-Aug 23
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Collaborated with 5 cross-functional teams in spearheading AI-driven Notes Generator, a Quality Assurance portal, and a mobile app with 150+ beta users collectively, through discovery, development and launch stages
+        - Evaluated process flow optimization through AI integration, and analyzed opportunities for automation, saving 11 HC
+          
+    - title: Product Strategy Intern
+      institution: Renerva, LLC
+      year: Dec 22-May 23
       description:
-        - Description 1.
-        - Description 2.
+        - Piloted over 200 customer discovery interviews for upcoming nerve-capping device, and analyzed qualitative results using MS Excel
+        - Created a reimbursement model and pricing strategy, and curated the business model for upcoming Series A funding round
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Co-Founder
+      institution: Sreshta- Holistic Geriatric Care (Start-up)
+      year: Apr 21-Aug 22
       description:
+        - Initiated programs for 100+ customers to provide integrated medical, pharmaceutical, and social services
+        - Developed a business model and performed market assessment covering 5+ zip code radius in Chennai to assess demand
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Associate Dentist
+      institution: Say Cheese Advanced Oral Care
+      year: Jan 20-Jun 22
+      description:
+        - Refined organizational structure and operational flow which reduced patient cycle time by 45% 
+        - Developed a digital scheduling system using GSuite, implemented recall & feedback incentives that improved follow-up by 25%
 
-- title: Open Source Projects
+    - title: Clinical Intern
+      institution: Department of Surgical Oncology, Cancer Institute (WIA)
+      year: Nov 19-Dec 19
+      description:
+        - Performed head and neck pre-operative, post-operative assessments, and assisted in advanced surgeries 
+        - Initiated collaborative learning opportunities for incoming interns, facilitating their transition to surgical practices 
+
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Vice President, Speaker Curation at Women in Healthcare Leadership (WIHL)
+      year: Aug 22-now
+      description: 
+        - Directing the selection and management of speakers and panels for 5+ WIHL events
+        - Executing and overseeing integral activities, and facilitating panels for the Annual Symposium
+
+    - title: Director of Hackathons at Healthcare Students Association (HSA)
+      year: Aug 23-now
+      description: 
+        - Organizing the Annual Health Hackathon in collaboration with E-ship@Cornell and the HSA Core Team
+        - Leading research efforts and securing sponsors/partners for the Health Hackathon with 15+ participating organizations
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - PRAISE Award- Publication Award Incentive for Students to Excel, Manipal University
+    - year: 2018
       items: 
-        - Max Planck Medal
+        - Student Plaque Award- International College of Dentists for all-round academic, leadership excellence
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - PowerBI, Jira, Python, SQL, Stata; Data Analysis and Visualization, Product Roadmapping
+    - Problem-solving, Clinical Stakeholder Management, Care Delivery Optimization, Provider Operations
+
+
+- title: Ongoing Education
+  type: nested_list
+  contents:
+    - title: Transitioning to Product Management
+    - title: Project Management
+    - title: Health Economics, Finance and Risk
+
+- title: Hobbies
+  type: list
+  contents:
+    - Powerlifting, A Capella

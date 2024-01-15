@@ -2,25 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Sloan MHA, Cornell University. <a href="mailto:ss3323@cornell.edu" title="Email">ss3323@cornell.edu.</a> 607.391.5563. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+     <p>Ithaca, NY 14850</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+    
+
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a clinician-turned Masters student at Cornell University, studying Health Administration. Passionate about bringing impactful digital health solutions to providers, streamlining workflows and improving patient outcomes.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I worked in dentistry and surgical oncology in India, and co-founded a healthtech startup that helped over 100 seniors in Chennai gain control over their medical and pharmaceutical data. This helped me recognize the need for change, and how technology can optimize care delivery.
+
+When I am not working, I enjoy powerlifting (competing in May 2024 next!), singing and writing on Medium, and X.
+
+Let's connect on LinkedIn!
