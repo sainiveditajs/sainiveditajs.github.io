@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sainiveditajs.github.io/sitemap.xml
